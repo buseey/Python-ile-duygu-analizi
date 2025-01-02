@@ -38,8 +38,8 @@ Ayrıca, veri.xlsx ve polarization_keywords.xlsx dosyalarının mevcut olması g
 
 ## Contributors
 - [Aybüke Eraydin](https://github.com/aybukeeraydin)
-- [Kullanıcı Adı 2](https://github.com/kullaniciadi2)
-- [Kullanıcı Adı 3](https://github.com/kullaniciadi3)
+- [Aleks Dulda](https://github.com/Aleksdulda)
+- [Mustafa Durmazer](https://github.com/mustafadurmazer)
 
 
 
